@@ -1,2 +1,4 @@
 # diabeticretinopathy
-Machine-learning analysis of diabetic retinopathy patients. The results of the analysis is compiled in [Report.pdf](https://github.com/charlieoneill11/diabeticretinopathy/blob/main/Report.pdf).
+Diabetic retinopathy (DME) is orders of magnitude more complex than neovascular macular degeneration. It is difficult to determine what factors contribute to achievement of long-term clinical outcomes for patients. Similarly, erratic treatment protocols make it challenging to classify and correct doctor decisions. Here, we apply both supervised and unsupervised learning techniques to (1) assess the characteristics of treatment that lead to good patient vision; (2) determine how accurately we can predict visual changes with minimal data; and (3) group doctor protocols in a definitional way. This research may be used as a springboard for clinical decision-support tools. 
+
+The results of the analysis is compiled in [Report.pdf](https://github.com/charlieoneill11/diabeticretinopathy/blob/main/Report.pdf).
